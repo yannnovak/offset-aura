@@ -1,15 +1,17 @@
 # Offset.Aura
 
-![Thumbnail for Offset Aura](./thumbnail.gif)
+![Thumbnail for Offset Aura](./assets/thumbnail.gif)
 
-*Offset.Aura* is a browser-based audiovisual artwork by Yann Novak, created for exhibition on Dimensions Variable website. *Offset.Aura* explores the visual and perceptual phenomenon produced through the combination of complementary colors. The work compels observation through its slow shift in colors, simultaneously allowing the phenomenon to unfold. The illusions produced by the different color pairings oscillates between harmonious and conflicting. The accompanying synthesized sound bridges these binaries, setting a tone for the experience.
+*Offset.Aura* is a browser-based audiovisual artwork by Yann Novak, created for exhibition on Dimensions Variable website. 
+
+*Offset.Aura* explores the visual and perceptual phenomenon produced through the combination of complementary colors. The work compels observation through its slow shift in colors, simultaneously allowing the phenomenon to unfold. The illusions produced by the different color pairings oscillates between harmonious and conflicting. The accompanying synthesized sound bridges these binaries, setting a tone for the experience.
 
 &nbsp;
 
 ## ✨ Features
 
 - Animated, color-shifting background and circle
-- Generative noise overlay
+- Subtle noise overlay for dithering
 - Play/pause audio control
 - Responsive design
 
