@@ -13,15 +13,13 @@
 ------------------------------------------------------------- */
 
 // Class Toggle
-document.addEventListener("DOMContentLoaded", function() {
-    var btn = document.querySelector(".button");
-    if (btn) {
-        btn.addEventListener("click", function(event) {
-            btn.classList.toggle("paused");
-            event.preventDefault();
-        });
-    }
-});
+var btn = document.querySelector(".button");
+if (btn) {
+    btn.addEventListener("click", function(event) {
+        btn.classList.toggle("paused");
+        event.preventDefault();
+    });
+}
 
 // Play/Pause Toggle
 var theAudio = document.getElementById("audio");

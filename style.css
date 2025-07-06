@@ -205,8 +205,16 @@ body {
 	padding: 0;
 	width: 30px;
 }
+.button:hover,
+.button:focus,
+.button:active {
+    opacity: 0.5;
+}
 .button.paused {
 	opacity: 0;
+}
+.button.paused:hover {
+    opacity: 0.5;
 }
 @-webkit-keyframes button {
 	0%   { border-color: transparent transparent transparent #33cc33; } /* Green */
