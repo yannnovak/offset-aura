@@ -1,17 +1,3 @@
-
-/*--------------------------------------------------------------
->>> TABLE OF CONTENTS:
-----------------------------------------------------------------
-
-	1. 	Play Button
-	2.	Credits
-
-------------------------------------------------------------- */
-
-/*--------------------------------------------------------------
-=	1. Play Button
-------------------------------------------------------------- */
-
 // Class Toggle
 var btn = document.querySelector(".button");
 if (btn) {
@@ -20,7 +6,6 @@ if (btn) {
         event.preventDefault();
     });
 }
-
 // Play/Pause Toggle
 var theAudio = document.getElementById("audio");
 var isPlaying = false;
@@ -37,16 +22,3 @@ theAudio.onplaying = function() {
 theAudio.onpause = function() {
     isPlaying = false;
 };
-
-/*--------------------------------------------------------------
-=	2. Credits
-----------------------------------------------------------------
-
-	Title:		Offset.Aura
-	Artist:		Yann Novak
-	Year:		2020
-	Code:		Yann Novak
-	Sound:		Yann Novak
-	Copyright:	2020 Yann Novak Studio 
-
-------------------------------------------------------------- */
