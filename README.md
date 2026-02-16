@@ -6,40 +6,30 @@
 
 *Offset.Aura* explores the visual and perceptual phenomenon produced through the combination of complementary colors. The work compels observation through its slow shift in colors, simultaneously allowing the phenomenon to unfold. The illusions produced by the different color pairings oscillates between harmonious and conflicting. The accompanying synthesized sound bridges these binaries, setting a tone for the experience.
 
-&nbsp;
-
-## ✨ Features
+## Features
 
 - Animated, color-shifting background and circle
 - Subtle noise overlay for dithering
 - Play/pause audio control
 - Responsive design
 
-&nbsp;
-
-## 🖼️ How to View
+## How to View
 
 To experience the artwork as originally presented, please visit:  
 [https://dimensionsvariable.net/exhibition/yann-novak-offset-aura/](https://dimensionsvariable.net/exhibition/yann-novak-offset-aura/)  
 and click **"View Digital Artwork"**.
 
-&nbsp;
-
-## 🎬 Demo
+## Demo
 
 You can also view a live demo here:  
 [https://www.yannnovak.com/offset-aura](https://www.yannnovak.com/offset-aura)
 
-&nbsp;
-
-## 🕹️ Usage
+## Usage
 
 - Click the play/pause button to start or stop the audio.
 - The visual elements animate automatically.
 
-&nbsp;
-
-## 📄 Credits
+## Credits
 
 - **Title:** Offset.Aura  
 - **Artist:** Yann Novak  
@@ -47,9 +37,7 @@ You can also view a live demo here:
 - **Code & Sound:** Yann Novak  
 - **Copyright:** 2020 Yann Novak Studio
 
-&nbsp;
-
-## ℹ️ About the Project
+## About the Project
 
 This project was commissioned by Dimensions Variable and is intended for viewing on their website.  
 For other uses, please contact Yann Novak.
