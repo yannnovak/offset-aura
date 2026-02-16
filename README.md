@@ -41,3 +41,17 @@ You can also view a live demo here:
 
 This project was commissioned by Dimensions Variable and is intended for viewing on their website.  
 For other uses, please contact Yann Novak.
+
+## Project Structure
+```
+offset-aura/
+├── assets/
+│   ├── audio.mp3
+│   ├── audio.ogg
+│   └── thumbnail.jpg
+├── .gitignore
+├── functions.js
+├── index.html
+├── README.md
+└── style.css
+```
